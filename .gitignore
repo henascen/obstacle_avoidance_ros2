@@ -1,0 +1,11 @@
+example_files
+gazebo_models
+report
+rosbags
+videos
+lab_4_*
+*.zip
+*pdf
+*/build
+*/install
+*/log
